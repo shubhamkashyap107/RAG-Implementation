@@ -81,12 +81,3 @@
 > external information and supplies it as context when the model
 > generates a response.
 
-## Folder Structure
-
-Keep the README and architecture image in the same folder:
-
-``` text
-rag-project/
-├── README.md
-└── rag-architecture.png
-```
